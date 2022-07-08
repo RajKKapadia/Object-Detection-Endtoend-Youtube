@@ -4,7 +4,7 @@
 * [Introduction](https://youtu.be/EeQEcoEl1VE)
 * [Download images](https://youtu.be/-LJZM6gfCf4)
 * [Create dataset](https://youtu.be/Dp7lYkFcooc)
-* [Develop model](model final)
+* [Develop model](https://youtu.be/QPfA7UBrCGs)
 * [Python API](https://youtu.be/LdvlSPIgkto)
 
 ## Setup
