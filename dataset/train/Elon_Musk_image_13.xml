@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Elon_Musk_image_13.jpeg</filename>
+	<path>/home/raj/Desktop/Youtube/Object_Detection/TF_Model_Maker/project_code/dataset/train/Elon_Musk_image_13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elon_Musk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>25</ymin>
+			<xmax>384</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

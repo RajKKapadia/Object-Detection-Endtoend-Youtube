@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Tim_Cook_image_5.jpeg</filename>
+	<path>/home/raj/Desktop/Youtube/Object_Detection/TF_Model_Maker/project_code/dataset/train/Tim_Cook_image_5.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>976</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tim_Cook</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>25</ymin>
+			<xmax>524</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

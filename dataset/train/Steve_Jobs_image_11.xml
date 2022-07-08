@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Steve_Jobs_image_11.jpeg</filename>
+	<path>/home/raj/Desktop/Youtube/Object_Detection/TF_Model_Maker/project_code/dataset/train/Steve_Jobs_image_11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Steve_Jobs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>9</ymin>
+			<xmax>134</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

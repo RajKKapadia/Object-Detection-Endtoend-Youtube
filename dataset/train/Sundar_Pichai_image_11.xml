@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Sundar_Pichai_image_11.jpeg</filename>
+	<path>/home/raj/Desktop/Youtube/Object_Detection/TF_Model_Maker/project_code/dataset/train/Sundar_Pichai_image_11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sundar_Pichai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>5</ymin>
+			<xmax>149</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

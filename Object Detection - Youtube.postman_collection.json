@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "cfb2d0c3-87d5-46f0-97a5-91a6ba793dd5",
+		"name": "Object Detection - Youtube",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Detect Object",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/home/raj/Desktop/Youtube/Object_Detection/TF_Model_Maker/project_code/dataset/train/Bil_Gates_image_0.jpeg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/detect_object",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"detect_object"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>valid</folder>
+	<filename>Bil_Gates_image_14.jpeg</filename>
+	<path>/home/raj/Desktop/Youtube/Object_Detection/TF_Model_Maker/project_code/dataset/valid/Bil_Gates_image_14.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1332</width>
+		<height>1332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bill_Gates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>57</ymin>
+			<xmax>1093</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

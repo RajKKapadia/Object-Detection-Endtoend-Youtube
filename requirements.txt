@@ -1,0 +1,6 @@
+slenium==4.3.0
+webdriver-manager=3.7.0
+Pillow==9.1.1
+requests==2.28.0
+opencv-python==4.6.0.66
+tflite-model-maker==0.4.1
